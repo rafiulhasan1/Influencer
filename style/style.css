@@ -145,3 +145,35 @@ body{
     color: rgba(224, 44, 109, 0.87);
     margin-top: 50px;
 }
+/*-----------------
+ part 4 start media
+ ------------------*/
+ .fourth-part{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    width: 1110px;
+    height: 270px;
+    margin: 100px 165px;
+ }
+ .gaset .gaset-1{
+    width: 404px;
+    height: 270px;
+    border-radius: 7px;
+ }
+ .atricle .text-l{
+    font-weight: 700;
+    font-size: 34px;
+    color: #0A0826;
+ }
+ .atricle .para-l{
+    font-weight: 550;
+    font-size: 16px;
+    color: #6C6C6C;
+ }
+ .atricle .butt-2{
+    background-color: #E02C6D;
+    border: 1px solid #E02C6D;
+    padding: 10px 29px;
+    color: white;
+    font-weight: 400;
+ }
